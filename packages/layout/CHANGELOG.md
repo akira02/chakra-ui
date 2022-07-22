@@ -1,5 +1,14 @@
 # Change Log
 
+## 2.1.2
+
+### Patch Changes
+
+- [#6357](https://github.com/chakra-ui/chakra-ui/pull/6357)
+  [`fcbf5e7a0`](https://github.com/chakra-ui/chakra-ui/commit/fcbf5e7a0855a32add9843f572103aa849f7202a)
+  Thanks [@takethefake](https://github.com/takethefake)! - Adjust `Highlight` to
+  not show any highlights if `query` is empty
+
 ## 2.1.1
 
 ### Patch Changes
